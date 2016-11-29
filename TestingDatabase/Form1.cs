@@ -30,6 +30,7 @@ namespace TestingDatabase
                     Console.WriteLine(item.Name);
                 }
             }
+            Console.WriteLine("U novom branch-u");
         }
     }
 }
