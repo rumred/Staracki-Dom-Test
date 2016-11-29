@@ -1,0 +1,13 @@
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\bin\Debug\TestingDatabase.exe.config
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\bin\Debug\TestingDatabase.exe
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\bin\Debug\TestingDatabase.pdb
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\obj\Debug\TestingDatabase.csprojResolveAssemblyReference.cache
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\obj\Debug\TestingDatabase.Form1.resources
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\obj\Debug\TestingDatabase.Properties.Resources.resources
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\obj\Debug\TestingDatabase.csproj.GenerateResource.Cache
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\obj\Debug\TestingDatabase.exe
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\obj\Debug\TestingDatabase.pdb
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\bin\Debug\EntityFramework.dll
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\bin\Debug\EntityFramework.xml
+c:\users\armin\documents\visual studio 2017\Projects\TestingDatabase\TestingDatabase\bin\Debug\EntityFramework.SqlServer.xml
